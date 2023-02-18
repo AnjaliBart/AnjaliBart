@@ -4,7 +4,7 @@ I am a Software Engineer. I am exploring Data Analytics and Data Science.
 
 ## Skills
 
-Data Analysis
+Data Analysis 
 MYSQL | Power BI | R Visualization | Tableau 
 
 ## Badges
@@ -13,6 +13,7 @@ MYSQL | Power BI | R Visualization | Tableau
 
 ## Certifications
 
-[Coursera](https://www.coursera.org/)
+[Coursera](https://www.coursera.org/) 
+
 [Google Data Analytics Certificate](https://coursera.org/share/003ee4bf5d390bc5974dedbf8af2510d)
 
