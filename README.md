@@ -1,6 +1,6 @@
 ## AboutMe
 
-I am a Software Engineer. I am exploring Data Analytics and Data Science.
+I am a Software Engineer. Currently exploring the oppotunities in Data Analytics and Data Science.
 
 ## Skills
 
