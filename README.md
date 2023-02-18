@@ -9,7 +9,7 @@ Data Analysis
 MYSQL | Power BI | R Visualization | Tableau 
 
 ## Badges
-
+![image](https://user-images.githubusercontent.com/125576273/219851733-ad047a43-9331-4e36-91ae-657cc2cfa616.png)
 
 
 ## Certifications
