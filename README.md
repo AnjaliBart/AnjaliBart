@@ -7,11 +7,11 @@ I am a Software Engineer. Currently exploring the oppotunities in Data Analytics
 
 Data Analysis | Data Visualization | Statistical Analysis 
 
-Tools & Languages
+###Tools & Languages
 
 MySQL | Power BI | R Programming | Tableau 
 
-Design Tools & Languages
+###Design Tools & Languages
 
 HTML | CSS | Figma
 
@@ -19,7 +19,10 @@ HTML | CSS | Figma
 ## Badges
 ![image](https://user-images.githubusercontent.com/125576273/219851733-ad047a43-9331-4e36-91ae-657cc2cfa616.png)
 
-![image](![Uploading MTA_HTML5-01.png…])
+![MTA_HTML5-01](https://user-images.githubusercontent.com/125576273/226894679-30536bf4-a5bb-4505-bce2-492a04b28cba.png)
+
+![image](https://user-images.githubusercontent.com/125576273/226894792-95605567-3460-4e2f-aab1-d90949bdbe7f.png)
+
 
 
 ## Certifications
