@@ -7,11 +7,11 @@ I am a Software Engineer. Currently exploring the oppotunities in Data Analytics
 
 Data Analysis | Data Visualization | Statistical Analysis 
 
-###Tools & Languages
+### Tools & Languages
 
 MySQL | Power BI | R Programming | Tableau 
 
-###Design Tools & Languages
+### Design Tools & Languages
 
 HTML | CSS | Figma
 
