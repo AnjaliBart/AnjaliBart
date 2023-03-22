@@ -5,13 +5,21 @@ I am a Software Engineer. Currently exploring the oppotunities in Data Analytics
 
 ## Skills
 
-Data Analysis 
+Data Analysis | Data Visualization | Statistical Analysis 
 
-MySQL | Power BI | R Visualization | Tableau 
+Tools & Languages
+
+MySQL | Power BI | R Programming | Tableau 
+
+Design Tools & Languages
+
+HTML | CSS | Figma
 
 
 ## Badges
 ![image](https://user-images.githubusercontent.com/125576273/219851733-ad047a43-9331-4e36-91ae-657cc2cfa616.png)
+
+![image](![Uploading MTA_HTML5-01.png…])
 
 
 ## Certifications
