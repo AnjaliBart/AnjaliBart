@@ -1,6 +1,6 @@
 ## AboutMe
 
-I am a Software Engineer. Currently exploring the oppotunities in Data Analytics and Data Science.
+I am a Software Engineer. Currently exploring opportunities in Data Analytics and Data Science.
 
 
 ## Skills
@@ -13,7 +13,7 @@ MySQL | Power BI | R Programming | Tableau
 
 ### Design Tools & Languages
 
-HTML | CSS | Figma
+React | HTML | CSS | Figma
 
 
 ## Badges
